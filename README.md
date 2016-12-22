@@ -1,0 +1,2 @@
+## Gieger Counter Code
+This is a quick and dirt batch of code for using the mightyohm gieger counter with an arduino serving as the brains. This code is meant for students in the city colleges of Chicago who are working on the HAB project. Its purpose is to data log radiation data from high altitude balloon trips. It can also be adjust and used with multiple geiger counters to log coincident box data. 
